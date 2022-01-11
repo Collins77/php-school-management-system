@@ -1,0 +1,26 @@
+
+.heading{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+}
+.navigation{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-items: center;
+
+}
+
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.admit{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
